@@ -239,11 +239,11 @@ section {
 }
 
 
-.settings input[name="stopKey"], .settings input[name="luresKey"], .settings input[name="fishingKey"], .settings input[name="intKey"], .settings input[name="spareKey"], .settings input[name="mammothKey"], .settings input[name="hsKey"] {
+.settings input[name="stopKey"], .settings input[name="luresKey"], .settings input[name="fishingKey"], .settings input[name="destoryKey"], .settings input[name="intKey"], .settings input[name="spareKey"], .settings input[name="mammothKey"], .settings input[name="hsKey"] {
   cursor: pointer;
 }
 
-.settings input[name="stopKey"]:active, .settings input[name="luresKey"]:active, .settings input[name="fishingKey"]:active, .settings input[name="intKey"]:active, .settings input[name="mammothKey"]:active, .settings input[name="hsKey"]:active {
+.settings input[name="stopKey"]:active, .settings input[name="luresKey"]:active, .settings input[name="fishingKey"]:active, .settings input[name="destroyKey"]:active, .settings input[name="intKey"]:active, .settings input[name="mammothKey"]:active, .settings input[name="hsKey"]:active {
   cursor: default;
 }
 
